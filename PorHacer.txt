@@ -1,2 +1,4 @@
 1. Despertarme con la alarma
 2. Unirme a la clase de DevOps por medio de Google Meet
+3. Crear un nuevo respositorio en GitHub
+4. Hacer la documentación correspondiente
